@@ -4,8 +4,8 @@
   "version": "1.0.0",
   "license": "MIT",
   "scripts": {
-    "build": "yarn build",
-    "dev": "yarn develop",
+    "build": "gatsby build",
+    "dev": "gatsby develop",
     "clean": "gatsby clean",
     "proxy": "netlify-cms-proxy-server"
   },
